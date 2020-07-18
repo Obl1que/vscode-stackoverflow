@@ -1,0 +1,21 @@
+{
+    "name": "stackoverflow",
+    "displayName": "StackOverflow",
+    "description": "A VSCode colour theme that looks like Stack Overflow.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.47.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "StackOverflow",
+                "uiTheme": "vs-dark",
+                "path": "./themes/StackOverflow-color-theme.json"
+            }
+        ]
+    }
+}
