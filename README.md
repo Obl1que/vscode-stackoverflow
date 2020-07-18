@@ -16,5 +16,6 @@ This is the dark theme, of course.
 # Information
 
 This colour scheme was tested with python, but it works fine with any other language.
-# vscode-stackoverflow
-# vscode-stackoverflow
+
+# Images
+![Wow it's a theme](/images/theme.png)
